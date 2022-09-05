@@ -1,0 +1,25 @@
+{
+  "name": "asynchrony",
+  "version": "1.0.0",
+  "description": "Testing JS asynchrony",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "callbacks": "node ./src/callback/callback.js",
+    "promesas": "node ./src/promesa/promesa.js",
+    "async": "node ./src/async/async.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J6-Babbage/asynchrony.git"
+  },
+  "author": "Edwin J. Páez (J6-Babbage)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/J6-Babbage/asynchrony/issues"
+  },
+  "homepage": "https://github.com/J6-Babbage/asynchrony#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}

@@ -1,3 +1,20 @@
 # Asynchrony
 
-Algunos conceptos de asincronía en [JavaScript ](https://github.com/J6-Babbage/readme-notes/blob/main/asynchrony.md)
+Algunos conceptos de asincronía en [JavaScript ](https://upbeat-board-f59.notion.site/Asynchrony-e98f00b4954047cab95fd2bbca9892b5)
+
+Para ejecutar el código de este repositorio, se debe tener instalado [Node.js](https://nodejs.org/es/)
+
+## Callbacks
+```javascript
+npm run callbacks
+```
+
+## Promesas
+```javascript
+npm run promesas
+```
+
+## Async/Await
+```javascript
+npm run async 
+```
