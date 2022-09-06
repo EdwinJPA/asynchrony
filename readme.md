@@ -17,7 +17,6 @@ npm run callbacks
 npm run promfetch
 // Con Axios
 npm run promaxios
-
 // Varias promesas con Promise.all
 npm run all
 ```
