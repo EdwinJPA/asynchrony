@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/J6-Babbage/asynchrony#readme",
   "dependencies": {
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
   }
 }
