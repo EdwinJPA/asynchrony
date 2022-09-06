@@ -1,3 +1,4 @@
+// FETCH
 // Importamos fetch para hacer las peticiones al servidor
 import fetch from "node-fetch";
 // URI de la API

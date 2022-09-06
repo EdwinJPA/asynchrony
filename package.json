@@ -6,7 +6,9 @@
   "type": "module",
   "scripts": {
     "callbacks": "node ./src/callback/callback.js",
-    "promesas": "node ./src/promesa/promesa.js",
+    "promfetch": "node ./src/promesa/fetch.js",
+    "promaxios": "node ./src/promesa/axios.js",
+    "all": "node ./src/promesa/all.js",
     "async": "node ./src/async/async.js"
   },
   "repository": {
@@ -20,6 +22,7 @@
   },
   "homepage": "https://github.com/J6-Babbage/asynchrony#readme",
   "dependencies": {
+    "axios": "^0.27.2",
     "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
   }
