@@ -26,3 +26,8 @@ npm run all
 ```javascript
 npm run async
 ```
+
+## Generadores
+```javascript
+npm run gen 
+```

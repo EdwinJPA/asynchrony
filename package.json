@@ -9,7 +9,8 @@
     "promfetch": "node ./src/promesa/fetch.js",
     "promaxios": "node ./src/promesa/axios.js",
     "all": "node ./src/promesa/all.js",
-    "async": "node ./src/async/async.js"
+    "async": "node ./src/async/async.js",
+    "gen": "node ./src/generador/generador.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   "homepage": "https://github.com/J6-Babbage/asynchrony#readme",
   "dependencies": {
     "axios": "^0.27.2",
+    "gh-pages": "^4.0.0",
     "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
   }
