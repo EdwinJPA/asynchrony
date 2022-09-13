@@ -10,7 +10,8 @@
     "promaxios": "node ./src/promesa/axios.js",
     "all": "node ./src/promesa/all.js",
     "async": "node ./src/async/async.js",
-    "gen": "node ./src/generador/generador.js"
+    "gen": "node ./src/generador/generador.js",
+    "gh-pages": "gh-pages -d ./src"
   },
   "repository": {
     "type": "git",
